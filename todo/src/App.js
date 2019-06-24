@@ -1,7 +1,9 @@
 import React from "react";
 import "./App.css";
 
+import { Component } from "react";
 import { connect } from "react-redux";
+import List from "./Components.List";
 
 class App extends Component {
   constructor(props) {
