@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.complete {
+  text-decoration: line-through;
+}
+
+input {
+  width: 90px;
+}
